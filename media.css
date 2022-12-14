@@ -1,0 +1,9 @@
+@media(max-width:768px){
+	nav{
+		left: -250px;
+	}
+	main{
+		margin: 0px;
+		padding: 80px 16px 0 16px;
+	}
+}
